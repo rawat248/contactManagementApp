@@ -6,9 +6,9 @@ This is a Contact Management App built using React.js, Redux, TypeScript, React 
 
 - Contact Management: You can add, delete, and edit contacts. Contacts are stored with details like First Name, Last Name, and Status.
 
-- Line Chart: You can view a line chart that displays data over time, giving insights into your contact management trends.
+- Line Chart: You can view a line chart that displays data .
 
-- Map View: You can view a map that displays the geographical locations of your contact
+- Map View: You can view a map that displays the geographical locations of country.
 
 ## Technologies Used
 
